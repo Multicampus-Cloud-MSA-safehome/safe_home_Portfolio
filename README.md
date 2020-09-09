@@ -89,7 +89,6 @@
 - Mobile로 접속해도 나쁘지 않은 UI 제공
 
 ![TEAM%20%E1%84%8B%E1%85%A7%E1%84%80%E1%85%B5%E1%84%8B%E1%85%A5%E1%84%8D%E1%85%A2%203eba3a80a3fc45eea38ff2d889a156c9/Screen_Shot_2020-09-02_at_3.00.43_PM.png](README_img/Screen_Shot_2020-09-02_at_3.00.43_PM.png)
-
 **<iPhone X in Chrome browser devTool>**
 
 ## 2)  고정된 Header
