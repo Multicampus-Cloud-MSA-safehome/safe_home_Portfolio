@@ -90,7 +90,7 @@
 
 ![TEAM%20%E1%84%8B%E1%85%A7%E1%84%80%E1%85%B5%E1%84%8B%E1%85%A5%E1%84%8D%E1%85%A2%203eba3a80a3fc45eea38ff2d889a156c9/Screen_Shot_2020-09-02_at_3.00.43_PM.png](README_img/Screen_Shot_2020-09-02_at_3.00.43_PM.png)
 
-                                                    **<iPhone X in Chrome browser devTool>**
+**<iPhone X in Chrome browser devTool>**
 
 ## 2)  고정된 Header
 
@@ -99,11 +99,11 @@
 
 ![TEAM%20%E1%84%8B%E1%85%A7%E1%84%80%E1%85%B5%E1%84%8B%E1%85%A5%E1%84%8D%E1%85%A2%203eba3a80a3fc45eea38ff2d889a156c9/Screen_Shot_2020-09-02_at_2.57.21_PM.png](README_img/Screen_Shot_2020-09-02_at_2.57.21_PM.png)
 
-                                                     **<구별을 선택했을 때 Progress bar>**
+**<구별을 선택했을 때 Progress bar>**
 
 ![TEAM%20%E1%84%8B%E1%85%A7%E1%84%80%E1%85%B5%E1%84%8B%E1%85%A5%E1%84%8D%E1%85%A2%203eba3a80a3fc45eea38ff2d889a156c9/Screen_Shot_2020-09-02_at_2.57.32_PM.png](README_img/Screen_Shot_2020-09-02_at_2.57.32_PM.png)
 
-                                                     **<뉴스를 선택했을 때 Progress bar>**
+**<뉴스를 선택했을 때 Progress bar>**
 
 ## 3) 자치구별 시각화
 
@@ -177,13 +177,13 @@
 
     ![TEAM%20%E1%84%8B%E1%85%A7%E1%84%80%E1%85%B5%E1%84%8B%E1%85%A5%E1%84%8D%E1%85%A2%203eba3a80a3fc45eea38ff2d889a156c9/Screen_Shot_2020-09-02_at_3.24.09_PM.png](README_img/Screen_Shot_2020-09-02_at_3.24.09_PM.png)
 
-                                                                     **<Data Fetch Error>**
+**<Data Fetch Error>**
 
 - 툴팁을 이용한 추가기능 설명
 
     ![TEAM%20%E1%84%8B%E1%85%A7%E1%84%80%E1%85%B5%E1%84%8B%E1%85%A5%E1%84%8D%E1%85%A2%203eba3a80a3fc45eea38ff2d889a156c9/Untitled%204.png](README_img/Untitled%204.png)
 
-                                                                         **<Tooltip for User>**
+**<Tooltip for User>**
 
 ## ** Deploy with gh-pages
 
