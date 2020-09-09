@@ -165,10 +165,9 @@
 ## 7) For better User Experience
 
 - Loading animation for async/await function
+![TEAM%20%E1%84%8B%E1%85%A7%E1%84%80%E1%85%B5%E1%84%8B%E1%85%A5%E1%84%8D%E1%85%A2%203eba3a80a3fc45eea38ff2d889a156c9/Untitled%203.png](README_img/loading.gif)
 
-![TEAM%20%E1%84%8B%E1%85%A7%E1%84%80%E1%85%B5%E1%84%8B%E1%85%A5%E1%84%8D%E1%85%A2%203eba3a80a3fc45eea38ff2d889a156c9/Screen_Shot_2020-09-02_at_3.20.54_PM.png](README_img/Screen_Shot_2020-09-02_at_3.20.54_PM.png)
-
-                                                                    **<Loading animation>**
+**<Loading animation>**
 
 - Error handling (HTTP status code ≥ 500) (roughly)
 
